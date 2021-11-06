@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.exe
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.deps.json
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.runtimeconfig.json
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.dll
+C:\Users\carlo\source\repos\tendencias\tendencias\bin\Debug\netcoreapp3.1\tendencias.pdb
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.AssemblyInfo.cs
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.dll
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.pdb
+C:\Users\carlo\source\repos\tendencias\tendencias\obj\Debug\netcoreapp3.1\tendencias.genruntimeconfig.cache
